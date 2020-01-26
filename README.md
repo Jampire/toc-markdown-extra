@@ -12,7 +12,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/Jampire/toc-markdown-extra/issues)
 
 This package adds Table of Contents capability (TOC) to 
-[PHP Markdown Extra](https://michelf.ca/projects/php-markdown/) package.  
+[PHP Markdown](https://michelf.ca/projects/php-markdown/) package.  
 
 TOC functionality is ported from [Sculpin](https://sculpin.io/) project. Sculpin is 
 [Static Site Generator](https://www.staticgen.com/about) written in PHP and based on [Symfony](https://symfony.com/).
@@ -27,10 +27,10 @@ composer require jampire/toc-markdown-extra
 
 ## Usage
 
-Please, see PHP Markdown Extra [documentation](https://github.com/michelf/php-markdown).
+Please, see [my article](https://dzianiskotau.com/php/auto-generating-toc-markdown/) and PHP Markdown [documentation](https://github.com/michelf/php-markdown).
 
 You can use [PhpStorm IDE](https://www.jetbrains.com/phpstorm/) with Markdown (bundled) plugin to automatically 
-generate TOC as PhpStorm uses the same algorithm for 'id' generation.
+generate TOC as PhpStorm uses the same algorithm for `id` generation.
 
 ## License
 
