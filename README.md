@@ -27,7 +27,7 @@ composer require jampire/toc-markdown-extra
 
 ## Usage
 
-Please, see [my article](https://dzianiskotau.com/php/auto-generating-toc-markdown/) and PHP Markdown [documentation](https://github.com/michelf/php-markdown).
+Please, see [my article](https://dzianiskotau.com/blog/php/auto-generating-toc-markdown/#auto-generating) and PHP Markdown [documentation](https://github.com/michelf/php-markdown).
 
 You can use [PhpStorm IDE](https://www.jetbrains.com/phpstorm/) with Markdown (bundled) plugin to automatically 
 generate TOC as PhpStorm uses the same algorithm for `id` generation.
